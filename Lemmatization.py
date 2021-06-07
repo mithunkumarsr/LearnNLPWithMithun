@@ -2,7 +2,7 @@ import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 
-paragraph = """Thank you all so very much. Thank you to the Academy. 
+paragraph = """Thank you all so verry much. Thank you to the Academy. 
                Thank you to all of you in this room. I have to congratulate 
                the other incredible nominees this year. The Revenant was 
                the product of the tireless efforts of an unbelievable cast
