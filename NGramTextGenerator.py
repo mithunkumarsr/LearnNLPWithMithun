@@ -3,7 +3,7 @@ import random
 import time
 from typing import List
 
-# ideally we would use some smart text tokenizer, but for simplicity use this one
+# ideally we would use some smart text tokenizer, but for simplicity use this one. 
 
 
 def tokenize(text: str) -> List[str]:
